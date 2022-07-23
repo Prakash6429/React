@@ -1,0 +1,44 @@
+#cart{
+    background-color: rgb(84, 151, 228);
+}
+
+#wish{
+    background-color: rgb(229, 69, 95);
+}
+
+#balance{
+    background-color: rgb(245, 169, 30);
+}
+
+#total{
+    background-color: rgb(245, 141, 159);
+}
+
+.dash{
+    display: flex;
+    justify-content: center;
+    margin-top: 220px;
+}
+
+.box{
+    width: 220px;
+    height: 220px;
+    margin-right: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+}
+
+.up{
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+.down{
+    font-size: 45px;
+    margin-right: 60px;
+}
+

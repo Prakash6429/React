@@ -1,0 +1,55 @@
+.em{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-top: 120px;
+    font-size: 20px;
+}
+
+#email,#password{
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+
+.pass{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+.login{
+    background-color: gray;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.loginb{
+    margin-top: 10px;
+    padding: 10px;
+    margin-left: 550px;
+    margin-bottom: 200px;
+    background-color: rgb(77, 136, 225);
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+ 
+.lo{
+    width: 80%;
+    margin: auto;
+    border: 1px ridge grey;
+    border-radius: 5px;
+}
